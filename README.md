@@ -24,4 +24,4 @@
 # HALL OF FAME
 -EYVAH\
 -FENA\
--ÇIKMAZ\
+-ÇIKMAZ
