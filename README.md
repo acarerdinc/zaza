@@ -4,11 +4,11 @@
 ### S tier
 -ZAZA\
 -Reis\
--Bis\
+-Bis
 
 ### Honorable Mentions
 -Ho Ho Hooo\
--Bayağ iyi\
+-Bayağ iyi
 
 ## A tier
 -diyebilir miyiz?
